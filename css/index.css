@@ -1,0 +1,19 @@
+body {
+  background-color: lightblue;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  height: 250px;
+  width:  auto;
+  margin-bottom: 40px;
+}
+
+.link {
+  margin:  40px;
+}
+
+
